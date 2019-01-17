@@ -6,3 +6,6 @@ Pewamo, MI
 Lots of Python, R, Unix
 
 Jonathan sheeha50@msu.edu
+
+Todd Lincoln
+lincolnt@msu.edu
