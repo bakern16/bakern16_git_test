@@ -4,3 +4,5 @@ Biochem
 Senior (Year 4)
 Pewamo, MI
 Lots of Python, R, Unix
+
+Jonathan sheeha50@msu.edu
